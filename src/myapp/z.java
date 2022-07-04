@@ -1,5 +1,5 @@
 package myapp;
 
 public class z {
-    public String name;
+    private String name;
 }
